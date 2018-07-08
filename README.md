@@ -1,2 +1,2 @@
 # c_concepts
-Demonstration of important C concepts
+Demonstration of few important C concepts
